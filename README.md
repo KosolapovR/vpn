@@ -1,2 +1,0 @@
-# vpn
-Created with CodeSandbox
